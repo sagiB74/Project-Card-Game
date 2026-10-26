@@ -213,7 +213,6 @@ Connect to `wss://<host>/ws`. Every message is a JSON object.
 - [x] WebSocket backend with server-side validation
 - [x] Browser frontend
 - [x] Deployed: Netlify + Render
-- [ ] Demo GIF
 - [ ] Draw rule for the rare endless 2-player game (about 1 in 2,000 games can loop forever)
 - [ ] Reconnect to a game after a dropped connection
 
